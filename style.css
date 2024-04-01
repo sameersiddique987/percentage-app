@@ -1,0 +1,103 @@
+body{
+    background-image: url("u1.jpg");
+}
+
+
+ #icon{
+     text-shadow: 4px 4px 4px lightskyblue;
+} 
+
+.end{
+    
+    
+    text-align:end;
+    padding-top: 15%;
+    padding-right: 20px;
+}
+
+
+.non{
+    text-decoration: none;
+}
+
+#chem-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+#phy-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+
+#math-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+#math-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+#urdu-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+
+#sindhi-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+
+#eng-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+
+
+
+#com-marks{
+    width: 30%;
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
